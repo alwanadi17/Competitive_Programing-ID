@@ -2,7 +2,7 @@
 Officially repository Competitive Programming ID
 
 # Maintainers
-1. <a href="https://github.com/majitenshi">@majitenshi</a>
+1. <a href="https://github.com/akiekano">@Akiekano</a>
 2. <a href="https://github.com/ammarfaizi2">@ammarfaizi2</a>
 
 # License
