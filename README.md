@@ -1,5 +1,5 @@
-# Codewars-CP_ID
-Officially repository Competitive Programming ID (https://t.me/CP_ID)
+# Competitive Programming ID
+Official repository of Competitive Programming ID (https://t.me/CP_ID)
 
 # Maintainers
 1. <a href="https://github.com/akiekano">@Akiekano</a>
