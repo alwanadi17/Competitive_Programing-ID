@@ -1,4 +1,8 @@
 unsigned halving_sum(unsigned n) {
-  if (n/2 <= 1) return n + 1;
-  return n + halving_sum(n / 2);
+  unsigned a = n;
+  while(a > 1){
+    a = a/2;
+    n = n+a;
+  }
+  return n;
 }
