@@ -8,3 +8,5 @@ input = [
 ]
 
 result = 2
+
+Link: https://www.codewars.com/kata/5b6b128783d648c4c4000129
