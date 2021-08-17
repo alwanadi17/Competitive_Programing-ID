@@ -43,10 +43,16 @@ function _genstats_codewars(string $dir): array
 				continue;
 			$user = basename($ff);
 			$kata = basename(dirname($ff));
-			$users[$user][$kata] = codewars_katadir_chk($ff);
+			$users[$user]["username"] = $user;
+			$users[$user]["ss"][$kata] = codewars_katadir_chk($ff);
 		}
 	}
 
+	usort($users, function ($a, $b) {
+		$ca = count($a["ss"]);
+		$cb = count($b["ss"]);
+		return ($ca > $cb) ? -1 : (($ca < $cb) ? 1 : 0);
+	});
 	return $users;
 }
 
@@ -55,22 +61,20 @@ function genstats_codewars(): void
 {
 	printf("-------------------------------------------------------\n");
 	$users = _genstats_codewars(__DIR__."/Codewars");
-	foreach ($users as $user => $v) {
+	foreach ($users as $v) {
 		$buffer = "";
 		$count  = 0;
-		foreach ($v as $kk => $vv) {
+		foreach ($v["ss"] as $kk => $vv) {
 			foreach ($vv as $kkk => $vvv) {
 				$buffer .= "\t{$kk} ({$vvv})\n";
 				$count++;
 			}
 		}
-		printf("%s (%d):\n%s\n", $user, $count, $buffer);
+		printf("%s (%d):\n%s\n", $v["username"], $count, $buffer);
 	}
 	printf("# Generated at: %s\n", date("c"));
 	printf("-------------------------------------------------------\n");
 }
-
-
 
 
 function main(?int $argc, ?array $argv): int
@@ -104,4 +108,4 @@ out_usage:
 
 $argv = $_SERVER["argv"] ?? NULL;
 $argc = $_SERVER["argc"] ?? NULL;
-return main($argc, $argv);
+exit(main($argc, $argv));
