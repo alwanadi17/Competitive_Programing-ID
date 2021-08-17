@@ -49,6 +49,9 @@ function code_chk(string $file): bool
 		$ret = false;
 	}
 
+	if ($ret)
+		pr_debug("%s[GOOD]%s File %s\n", C_GREEN, C_END, $file);
+
 	return $ret;
 }
 
@@ -93,9 +96,6 @@ function _codewars_chk(string $dir): int
 			$user = basename($ff);
 			if (__codewars_chk($user, $ff))
 				$ret = EBADMSG;
-			else
-				pr_debug("%s[GOOD]%s File %s\n", C_GREEN, C_END,
-					 $ff);
 		}
 	}
 	return $ret;
