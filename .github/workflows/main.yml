@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Code Check (SPDX ID and Copyright)
 
 on:
