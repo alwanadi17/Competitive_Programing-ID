@@ -89,7 +89,6 @@ function main(?int $argc, ?array $argv): int
 	if ($argc == 1)
 		goto out_usage;
 
-
 	$tg = strtolower($argv[1]);
 	if (!strcmp($tg, "codewars")) {
 		genstats_codewars();

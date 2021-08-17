@@ -3,6 +3,7 @@ Official repository of Competitive Programming ID (https://t.me/CP_ID)
 
 # Codewars Stats
 ```
+-------------------------------------------------------
 ammarfaizi2 (15):
 	2_kyu_pointer_monster (solution.c)
 	2_kyu_pointer_monster (solution.cpp)
@@ -32,6 +33,9 @@ alpha (1):
 
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
+
+# Generated at: 2021-08-17T08:17:45+00:00
+-------------------------------------------------------
 ```
 
 # Maintainers
