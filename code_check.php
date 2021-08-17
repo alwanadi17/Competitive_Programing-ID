@@ -104,16 +104,7 @@ function _codewars_chk(string $dir): int
 
 function codewars_chk(): int
 {
-	ob_start();
-	$ret = _codewars_chk(__DIR__."/Codewars");
-	$buf = ob_get_clean();
-
-	if (!$ret)
-		goto out;
-
-out:
-	printf("%s\n", $buf);
-	return $ret;
+	return _codewars_chk(__DIR__."/Codewars");
 }
 
 
@@ -148,4 +139,4 @@ out_usage:
 
 $argv = $_SERVER["argv"] ?? NULL;
 $argc = $_SERVER["argc"] ?? NULL;
-return main($argc, $argv);
+exit(main($argc, $argv));

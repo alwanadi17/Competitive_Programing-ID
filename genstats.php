@@ -108,4 +108,4 @@ out_usage:
 
 $argv = $_SERVER["argv"] ?? NULL;
 $argc = $_SERVER["argc"] ?? NULL;
-return main($argc, $argv);
+exit(main($argc, $argv));
