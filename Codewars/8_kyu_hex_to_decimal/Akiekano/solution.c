@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (C) 2021  Akiekano <hello.akiekano@gmail.com>
+ */
+
 // version 1
 int hex_to_dec(const char *source) {
   return strtol(source, NULL, 16);
