@@ -28,13 +28,15 @@ Akiekano (5):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (1):
+alpha (3):
+	6_kyu_bit_counting (solution.cpp)
+	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
 
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at: 2021-08-17T08:17:45+00:00
+# Generated at: 2021-08-17T09:53:03+00:00
 -------------------------------------------------------
 ```
 
