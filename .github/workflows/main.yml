@@ -20,4 +20,4 @@ jobs:
 
       - name: Do check
         run: |
-          php code_check.php;
+          php code_check.php codewars;
