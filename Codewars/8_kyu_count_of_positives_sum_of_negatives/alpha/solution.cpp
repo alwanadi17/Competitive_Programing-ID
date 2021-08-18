@@ -15,7 +15,8 @@ std::vector<int> countPositivesSumNegatives(std::vector<int> input)
     if(n > 0) posCount += 1;
     if(n < 0) negSum += n;
   }
-  ret[0] = posCount; ret[1] = negSum;
+  ret[0] = posCount;
+  ret[1] = negSum;
   
   if(ret[0] == 0 && ret[1] == 0) return input; //if input is empty, return input
   
