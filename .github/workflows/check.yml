@@ -1,4 +1,4 @@
-name: Contribution Generator.
+name: Contributor Check
 
 on:
   push:
