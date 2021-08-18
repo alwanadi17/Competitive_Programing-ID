@@ -35,7 +35,7 @@ int main(){
 
 	if(hexString[length-1] == '-') sum *= -1;
 
-	cout << "Decimal = " << sum << endl;
+	cout << "Decimal = " << sum << endl << endl;
 
 	return 0;
 }
