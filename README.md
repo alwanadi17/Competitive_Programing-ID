@@ -25,22 +25,32 @@ ammarfaizi2 (19):
 	8_kyu_is_he_gonna_survive (solution.asm)
 	8_kyu_keep_hydrated (solution.asm)
 
-Akiekano (5):
+alpha (9):
+	6_kyu_bit_counting (solution.cpp)
+	7_kyu_bumps_in_the_road (solution.cpp)
+	7_kyu_get_the_middle_char (solution.cpp)
+	7_kyu_reverse_words (solution.cpp)
+	7_kyu_sort_numbers (solution.cpp)
+	8_kyu_alternating_case (solution.cpp)
+	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
+	8_kyu_hex_to_decimal (hexToDecimal.cpp)
+	beta_make_upper (solution.cpp)
+
+Akiekano (9):
+	7_kyu_bumps_in_the_road (Main.c)
 	7_kyu_halving_sum (Main.c)
+	7_kyu_reverse_words (Main.c)
 	7_kyu_smallest_product (Solutions.py)
+	7_kyu_sort_numbers (Main.c)
+	8_kyu_alternating_case (Main.c)
 	8_kyu_count_of_positives_sum_of_negatives (Solution.c)
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (3):
-	6_kyu_bit_counting (solution.cpp)
-	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
-	8_kyu_hex_to_decimal (hexToDecimal.cpp)
-
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at: 2021-08-17T15:00:32+00:00
+# Generated at: 2021-08-18T08:27:23+00:00
 -------------------------------------------------------
 ```
 
