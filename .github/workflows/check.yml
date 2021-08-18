@@ -1,0 +1,21 @@
+name: Contributor Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install PHP
+        run: sudo apt-get install php -y;
+
+      - name: Do check
+        run: |
+          php genstats.php codewars;
