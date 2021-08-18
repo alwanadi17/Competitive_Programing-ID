@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (C) 2021  Mochammad Farid Wajdi <mochfaridw@gmail.com>
+ */
+
 #include <string>
 
 int hexToDec(std::string hexString)
