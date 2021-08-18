@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (C) 2021  Alwan Adiuntoro <alwanadiuntoro@gmail.com>
+ */
+
 uint8_t countBits(unsigned long long n){
   uint8_t binary[64] = {0};
   uint8_t ret = 0, i = 0;

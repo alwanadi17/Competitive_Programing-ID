@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (C) 2021  Akiekano <hello.akiekano@gmail.com>
+ */
 #include <stddef.h>
 
 void count_positives_sum_negatives(
