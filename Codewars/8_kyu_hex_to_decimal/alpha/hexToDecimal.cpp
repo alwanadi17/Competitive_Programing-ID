@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (C) 2021  Alwan Adiuntoro <alwanadiuntoro@gmail.com>
+ */
+
 #include <iostream>
 #include <math.h>
 
@@ -30,7 +35,7 @@ int main(){
 
 	if(hexString[length-1] == '-') sum *= -1;
 
-	cout << "Decimal = " << sum << endl;
+	cout << "Decimal = " << sum << endl << endl;
 
 	return 0;
 }
