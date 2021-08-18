@@ -1,4 +1,4 @@
-name: Code Check (SPDX ID and Copyright)
+name: Check SPDX ID and Update Stats
 
 on:
   push:
@@ -20,19 +20,16 @@ jobs:
         run: |
           php code_check.php codewars;
 
-      - name: Update Codewars Stats
-        uses: stefanzweifel/git-auto-commit-action@v4.11.0
-        with:
-          commit_message: |
-            README.md: update Codewars stats
+      - name: Generate codewars stats
+        run: |
+          php genstats.php codewars;
 
-            Co-authored-by: GitHub Support <support@github.com>
-
-          branch: main
-          commit_options: '--no-verify --signoff'
-          file_pattern: README.md
-          repository: .
-          push_options: '--force'
-          skip_dirty_check: true
-          skip_fetch: false
-          disable_globbing: true
+      - name: Commit and push changes
+        shell: bash
+        if: github.event_name != 'pull_request'
+        run: |
+          git config --global user.name "GitHub Actions" && \
+          git config --global user.email "actions@github.com" && \
+          git add -A && \
+          git commit -s -m "$(echo -e 'README.md: update codewars stats\n\nCo-authored-by: GitHub Staff <support@github.com>\nSigned-off-by: GitHub Actions <actions@github.com>')" && \
+          git push -vf origin ${GITHUB_REF##*/};
