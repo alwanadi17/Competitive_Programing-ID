@@ -4,10 +4,11 @@ Official repository of Competitive Programming ID (https://t.me/CP_ID)
 # Codewars Stats
 ```
 -------------------------------------------------------
-ammarfaizi2 (19):
+ammarfaizi2 (20):
 	2_kyu_pointer_monster (solution.c)
 	2_kyu_pointer_monster (solution.cpp)
 	4_kyu_range_extraction (solution.asm)
+	6_kyu_data_reverse (solution.asm)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_remove_duplicate_words (solution.cpp)
 	7_kyu_reverse_words (solution.cpp)
@@ -50,7 +51,7 @@ Akiekano (9):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at: 2021-08-18T08:27:23+00:00
+# Generated at: 2021-08-19T14:09:51+00:00
 -------------------------------------------------------
 ```
 
