@@ -1,9 +1,15 @@
+
 # Competitive Programming ID
 Official repository of Competitive Programming ID (https://t.me/CP_ID)
 
 # Codewars Stats
 ```
 {{codewars_stats}}
+```
+
+# Toki Stats
+```
+{{toki_stats}}
 ```
 
 # Maintainers

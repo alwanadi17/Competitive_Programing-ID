@@ -1,4 +1,4 @@
-name: Check SPDX ID and Update Stats
+name: Code check and stats generation
 
 on:
   push:
@@ -16,20 +16,17 @@ jobs:
       - name: Install PHP
         run: sudo apt-get install php -y;
 
-      - name: Do check
+      - name: Code check
         run: |
-          php code_check.php codewars;
+          php code_check.php;
 
-      - name: Generate codewars stats
-        run: |
-          php genstats.php codewars;
-
-      - name: Commit and push changes
+      - name: Generate stats
         shell: bash
         if: github.event_name != 'pull_request'
         run: |
+          php genstats.php && \
           git config --global user.name "GitHub Actions" && \
-          git config --global user.email "actions@github.com" && \
-          git add -A && \
-          git commit -s -m "$(echo -e 'README.md: update codewars stats\n\nCo-authored-by: GitHub Staff <support@github.com>\nSigned-off-by: GitHub Actions <actions@github.com>')" && \
-          git push -vf origin ${GITHUB_REF##*/};
+          git config --global user.email "actions@github.com";
+          git add -A || true;
+          git commit -s -m "$(echo -e 'README.md: update stats\n\nCo-authored-by: GitHub Staff <support@github.com>\nSigned-off-by: GitHub Actions <actions@github.com>')" || true;
+          git push -vf origin ${GITHUB_REF##*/} || true;
