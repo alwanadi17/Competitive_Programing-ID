@@ -31,7 +31,7 @@ function pr_debug(string $fmt, ...$args): int
 }
 
 
-function code_chk(string $file): bool
+function _code_chk(string $file): bool
 {
 	$ret = true;
 	$content = file_get_contents($file);
@@ -56,56 +56,23 @@ function code_chk(string $file): bool
 }
 
 
-function __codewars_chk($user, $kataDir): int
+function code_chk(string $dir)
 {
-	$ret = 0;
-	$scan = scandir($kataDir);
-	foreach ($scan as $f) {
-		if ($f === "." || $f === "..")
-			continue;
-		$f = $kataDir."/".$f;
-		if (is_dir($f))
-			continue;
-		if (!code_chk($f))
-			$ret = EBADMSG;
-	}
-	return $ret;
-}
-
-
-function _codewars_chk(string $dir): int
-{
-	$ret = 0;
-	$users = [];
-	$scan  = scandir($dir);
-
+	$ret  = 0;
+	$scan = scandir($dir);
 	foreach ($scan as $f) {
 		if ($f === "." || $f === "..")
 			continue;
 		$f = $dir."/".$f;
-		if (!is_dir($f))
-			continue;
-
-		$scan2 = scandir($f);
-		foreach ($scan2 as $ff) {
-			if ($ff === "." || $ff === "..")
-				continue;
-			$ff = $f."/".$ff;
-			if (!is_dir($ff))
-				continue;
-			$user = basename($ff);
-			if (__codewars_chk($user, $ff))
-				$ret = EBADMSG;
+		if (is_dir($f))
+			$ret |= code_chk($f);
+		else if (preg_match("/\.(c|cpp|py|asm|go|php|s)$/i", $f)) {
+			$ret |= !_code_chk($f);
 		}
 	}
 	return $ret;
 }
 
-
-function codewars_chk(): int
-{
-	return _codewars_chk(__DIR__."/Codewars");
-}
 
 
 function main(?int $argc, ?array $argv): int
@@ -122,17 +89,15 @@ function main(?int $argc, ?array $argv): int
 		exit(1);
 	}
 
-	if ($argc == 1)
+	if ($argc > 1)
 		goto out_usage;
 
-	$tg = strtolower($argv[1]);
-	if (!strcmp($tg, "codewars"))
-		return codewars_chk();
+	$ret |= code_chk(__DIR__."/Codewars");
+	$ret |= code_chk(__DIR__."/Toki");
+	return $ret;
 
-	$ret = 1;
-	printf("Error: Invalid option %s\n", $argv[1]);
 out_usage:
-	printf("Usage: php %s [codewars|hackerrank|toki]\n", $argv[0]);
+	printf("Usage: php %s\n", $argv[0]);
 	return $ret;
 }
 
