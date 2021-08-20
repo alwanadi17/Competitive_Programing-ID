@@ -59,6 +59,7 @@ function _genstats_codewars(string $dir): array
 
 function genstats_codewars(): void
 {
+	ob_start();
 	printf("-------------------------------------------------------\n");
 	$users = _genstats_codewars(__DIR__."/Codewars");
 	foreach ($users as $v) {
@@ -73,7 +74,12 @@ function genstats_codewars(): void
 		printf("%s (%d):\n%s\n", $v["username"], $count, $buffer);
 	}
 	printf("# Generated at: %s\n", date("c"));
-	printf("-------------------------------------------------------\n");
+	printf("-------------------------------------------------------");
+	$o = ob_get_clean();
+	$stub = file_get_contents(__DIR__."/README.stub.md");
+	$stub = str_replace("{{codewars_stats}}", $o, $stub);
+	file_put_contents("README.md", $stub);
+	printf("%s\n", $o);
 }
 
 
