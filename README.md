@@ -27,6 +27,20 @@ ammarfaizi2 (20):
 	8_kyu_is_he_gonna_survive (solution.asm)
 	8_kyu_keep_hydrated (solution.asm)
 
+Akiekano (12):
+	5_kyu_calculating with functions (Main.py)
+	6_kyu_split_string (solution.go)
+	6_kyu_sums_of_digit (Main.go)
+	7_kyu_bumps_in_the_road (Main.c)
+	7_kyu_halving_sum (Main.c)
+	7_kyu_reverse_words (Main.c)
+	7_kyu_smallest_product (Solutions.py)
+	7_kyu_sort_numbers (Main.c)
+	8_kyu_alternating_case (Main.c)
+	8_kyu_count_of_positives_sum_of_negatives (Solution.c)
+	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
+	8_kyu_hex_to_decimal (solution.c)
+
 alpha (9):
 	6_kyu_bit_counting (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
@@ -38,23 +52,11 @@ alpha (9):
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
 	beta_make_upper (solution.cpp)
 
-Akiekano (9):
-	7_kyu_bumps_in_the_road (Main.c)
-	7_kyu_halving_sum (Main.c)
-	7_kyu_reverse_words (Main.c)
-	7_kyu_smallest_product (Solutions.py)
-	7_kyu_sort_numbers (Main.c)
-	8_kyu_alternating_case (Main.c)
-	8_kyu_count_of_positives_sum_of_negatives (Solution.c)
-	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
-	8_kyu_hex_to_decimal (solution.c)
-
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-08-20T16:22:48+00:00
+# Generated at 2021-08-20T16:25:47+00:00
 -------------------------------------------------------
-
 ```
 
 # Toki Stats
@@ -63,9 +65,8 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-08-20T16:22:48+00:00
+# Generated at 2021-08-20T16:25:47+00:00
 -------------------------------------------------------
-
 ```
 
 # Maintainers
