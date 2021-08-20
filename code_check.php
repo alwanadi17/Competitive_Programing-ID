@@ -67,7 +67,7 @@ function code_chk(string $dir)
 		if (is_dir($f))
 			$ret |= code_chk($f);
 		else if (preg_match("/\.(c|cpp|py|asm|go|php|s)$/i", $f)) {
-			$ret |= _code_chk($f);
+			$ret |= !_code_chk($f);
 		}
 	}
 	return $ret;
