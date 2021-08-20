@@ -91,7 +91,7 @@ function genstats(string &$readmeStub, string $basedir, string $hashFile,
 		file_put_contents($hashFile, $newHash."\n");
 
 	$out = str_replace("{{generated_at}}", date("c"), $out);
-	$readmeStub = str_replace("{{".$stubString."}}", $out, $readmeStub);
+	$readmeStub = str_replace($stubString, $out, $readmeStub);
 	return $ret;
 }
 
