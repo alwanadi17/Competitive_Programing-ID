@@ -62,12 +62,10 @@ function scan_user_p(array &$ret, string $basedir): void
 	_scan_user_p($ret, $basedir, $basedir);	
 }
 
-
-function genstats_codewars(string &$readmeStub, string $basedir,
-			   string $hashFile): int
+function genstats(string &$readmeStub, string $basedir, string $hashFile,
+		  string $stubString): int
 {
 	$oldHash = file_exists($hashFile) ? trim(file_get_contents($hashFile)) : "";
-
 	$ret = [];
 	scan_user_p($ret, $basedir);
 	ob_start();
@@ -88,46 +86,27 @@ function genstats_codewars(string &$readmeStub, string $basedir,
 	$out = ob_get_clean();
 
 	$newHash = sha1($out);
-	if ($oldHash !== $newHash)
+	$ret = ($oldHash !== $newHash);
+	if ($ret)
 		file_put_contents($hashFile, $newHash."\n");
 
 	$out = str_replace("{{generated_at}}", date("c"), $out);
-	$readmeStub = str_replace("{{codewars_stats}}", $out, $readmeStub);
-	return ($oldHash === $newHash);
+	$readmeStub = str_replace("{{".$stubString."}}", $out, $readmeStub);
+	return $ret;
 }
 
 
-function genstats_toki(string &$readmeStub, string $basedir,
+function genstats_codewars(string &$readmeStub, string $baseDir,
+			   string $hashFile): int
+{
+	return genstats($readmeStub, $baseDir, $hashFile, "{{codewars_stats}}");
+}
+
+
+function genstats_toki(string &$readmeStub, string $baseDir,
 		       string $hashFile): int
 {
-	$oldHash = file_exists($hashFile) ? trim(file_get_contents($hashFile)) : "";
-
-	$ret = [];
-	scan_user_p($ret, $basedir);
-	ob_start();
-	printf("-------------------------------------------------------\n");	
-	foreach ($ret as $k => $v) {
-		$buffer = "";
-		$count  = 0;
-		foreach ($v as $kk => $vv) {
-			foreach ($vv as $kkk => $vvv) {
-				$buffer .= "\t{$kk} ({$vvv})\n";
-				$count++;
-			}
-		}
-		printf("%s (%d):\n%s\n", $k, $count, $buffer);
-	}
-	printf("# Generated at {{generated_at}}\n");
-	printf("-------------------------------------------------------");
-	$out = ob_get_clean();
-
-	$newHash = sha1($out);
-	if ($oldHash !== $newHash)
-		file_put_contents($hashFile, $newHash."\n");
-
-	$out = str_replace("{{generated_at}}", date("c"), $out);
-	$readmeStub = str_replace("{{toki_stats}}", $out, $readmeStub);
-	return ($oldHash !== $newHash);
+	return genstats($readmeStub, $baseDir, $hashFile, "{{toki_stats}}");
 }
 
 
@@ -158,7 +137,7 @@ function main(?int $argc, ?array $argv): int
 		__DIR__."/Toki",
 		__DIR__."/.stat_hash/Toki.lock"
 	);
-
+	var_dump($ret);
 	if ($ret)
 		file_put_contents(__DIR__."/README.md", $readmeStub);
 
