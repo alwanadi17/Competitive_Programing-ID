@@ -127,7 +127,7 @@ function genstats_toki(string &$readmeStub, string $basedir,
 
 	$out = str_replace("{{generated_at}}", date("c"), $out);
 	$readmeStub = str_replace("{{toki_stats}}", $out, $readmeStub);
-	return ($oldHash === $newHash);
+	return ($oldHash !== $newHash);
 }
 
 
@@ -160,7 +160,7 @@ function main(?int $argc, ?array $argv): int
 	);
 
 	if ($ret)
-		file_put_contents("README.md", $readmeStub);
+		file_put_contents(__DIR__."/README.md", $readmeStub);
 
 	return 0;
 out_usage:
