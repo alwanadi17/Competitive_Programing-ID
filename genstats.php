@@ -135,7 +135,7 @@ function main(?int $argc, ?array $argv): int
 	$ret |= genstats_toki(
 		$readmeStub,
 		__DIR__."/Toki",
-		__DIR__."/.stat_hash/Toki.lock"
+		__DIR__."/.stats_hash/Toki.lock"
 	);
 	var_dump($ret);
 	if ($ret)
