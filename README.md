@@ -1,3 +1,4 @@
+
 # Competitive Programming ID
 Official repository of Competitive Programming ID (https://t.me/CP_ID)
 
@@ -54,7 +55,17 @@ alpha (9):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at: 2021-08-20T14:44:14+00:00
+# Generated at 2021-08-20T16:25:47+00:00
+-------------------------------------------------------
+```
+
+# Toki Stats
+```
+-------------------------------------------------------
+ammarfaizi2 (1):
+	courses_basics/chapter_10/C (solution.c)
+
+# Generated at 2021-08-20T16:25:47+00:00
 -------------------------------------------------------
 ```
 
