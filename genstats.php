@@ -6,57 +6,6 @@
  * Copyright (C) 2021  Ammar Faizi <ammarfaizi2@gmail.com>
  */
 
-
-// function codewars_katadir_chk($userKataDir): array
-// {
-// 	$solutions = [];
-// 	$scan = scandir($userKataDir);
-// 	foreach ($scan as $f) {
-// 		if ($f === "." || $f === "..")
-// 			continue;
-// 		if (is_dir($userKataDir."/".$f))
-// 			continue;
-// 		$solutions[] = $f;
-// 	}
-// 	return $solutions;
-// }
-
-
-// function _genstats_codewars(string $dir): array
-// {
-// 	$users = [];
-// 	$scan  = scandir($dir);
-
-// 	foreach ($scan as $f) {
-// 		if ($f === "." || $f === "..")
-// 			continue;
-// 		$f = $dir."/".$f;
-// 		if (!is_dir($f))
-// 			continue;
-
-// 		$scan2 = scandir($f);
-// 		foreach ($scan2 as $ff) {
-// 			if ($ff === "." || $ff === "..")
-// 				continue;
-// 			$ff = $f."/".$ff;
-// 			if (!is_dir($ff))
-// 				continue;
-// 			$user = basename($ff);
-// 			$kata = basename(dirname($ff));
-// 			$users[$user]["username"] = $user;
-// 			$users[$user]["ss"][$kata] = codewars_katadir_chk($ff);
-// 		}
-// 	}
-
-// 	usort($users, function ($a, $b) {
-// 		$ca = count($a["ss"]);
-// 		$cb = count($b["ss"]);
-// 		return ($ca > $cb) ? -1 : (($ca < $cb) ? 1 : 0);
-// 	});
-// 	return $users;
-// }
-
-
 function dir_has_readme_txt(string $dir)
 {
 	return file_exists($dir."/README.txt");
