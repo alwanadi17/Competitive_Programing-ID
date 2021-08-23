@@ -29,8 +29,9 @@ ammarfaizi2 (22):
 	8_kyu_is_he_gonna_survive (solution.asm)
 	8_kyu_keep_hydrated (solution.asm)
 
-Akiekano (12):
+Akiekano (13):
 	5_kyu_calculating with functions (Main.py)
+	6_kyu_multiples_of_3_or_5 (Solutions.go)
 	6_kyu_split_string (solution.go)
 	6_kyu_sums_of_digit (Main.go)
 	7_kyu_bumps_in_the_road (Main.c)
@@ -57,7 +58,7 @@ alpha (9):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-08-22T14:24:44+00:00
+# Generated at 2021-08-22T16:47:35+00:00
 -------------------------------------------------------
 ```
 
@@ -67,7 +68,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-08-22T14:24:44+00:00
+# Generated at 2021-08-22T16:47:35+00:00
 -------------------------------------------------------
 ```
 
