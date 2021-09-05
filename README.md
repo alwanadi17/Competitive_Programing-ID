@@ -67,10 +67,13 @@ alpha (9):
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
 	beta_make_upper (solution.cpp)
 
+uClaster (1):
+	6_kyu_split_string (solution.py)
+
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-02T16:16:33+00:00
+# Generated at 2021-09-05T15:39:33+00:00
 -------------------------------------------------------
 ```
 
@@ -80,7 +83,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-02T16:16:33+00:00
+# Generated at 2021-09-05T15:39:33+00:00
 -------------------------------------------------------
 ```
 
