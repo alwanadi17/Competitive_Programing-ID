@@ -36,4 +36,4 @@ Bash Note:
 The input strings are separated by , instead of \n. The output strings should be separated by \r instead of \n. See "Sample Tests".
 
 
-https://www.codewars.com/kata/56dbe0e313c2f63be4000b25
+Link: https://www.codewars.com/kata/56dbe0e313c2f63be4000b25
