@@ -58,8 +58,9 @@ Akiekano (14):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (12):
+alpha (13):
 	6_kyu_bit_counting (solution.cpp)
+	6_kyu_multiples_of_3_or_5 (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_get_the_middle_char (solution.cpp)
 	7_kyu_halving_sum (solution.cpp)
@@ -81,7 +82,7 @@ uClaster (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-06T03:12:42+00:00
+# Generated at 2021-09-06T03:20:42+00:00
 -------------------------------------------------------
 ```
 
@@ -91,7 +92,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-06T03:12:42+00:00
+# Generated at 2021-09-06T03:20:42+00:00
 -------------------------------------------------------
 ```
 
