@@ -4,7 +4,7 @@
  * Copyright (C) 2021  Alwan Adiuntoro <alwanadiuntoro@gmail.com>
  */
  
- #include <algorithm>
+#include <algorithm>
 
 class Opstrings
 {
