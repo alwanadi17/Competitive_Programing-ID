@@ -76,10 +76,16 @@ uClaster (4):
 	8_kyu_sum_of_positive (solution.c)
 	8_kyu_sum_of_positive (solution.py)
 
+phanatagama (4):
+	7_kyu_remove_duplicate_words (solution.py)
+	7_kyu_reverse_words (solution.py)
+	7_kyu_smallest_product (solution.py)
+	7_kyu_sort_numbers (solution.py)
+
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-07T01:21:08+00:00
+# Generated at 2021-09-07T15:59:26+00:00
 -------------------------------------------------------
 ```
 
@@ -89,7 +95,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-07T01:21:08+00:00
+# Generated at 2021-09-07T15:59:26+00:00
 -------------------------------------------------------
 ```
 
