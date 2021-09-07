@@ -59,12 +59,17 @@ Akiekano (15):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (9):
+alpha (14):
+	6_kyu_Consonant_value (solution.cpp)
 	6_kyu_bit_counting (solution.cpp)
+	6_kyu_multiples_of_3_or_5 (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_get_the_middle_char (solution.cpp)
+	7_kyu_halving_sum (solution.cpp)
+	7_kyu_moves_in_squared_strings_I (solution.cpp)
 	7_kyu_reverse_words (solution.cpp)
 	7_kyu_sort_numbers (solution.cpp)
+	8_kyu_Floating_point_comparison (solution.cpp)
 	8_kyu_alternating_case (solution.cpp)
 	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
@@ -85,7 +90,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-07T15:59:26+00:00
+# Generated at 2021-09-07T16:45:15+00:00
 -------------------------------------------------------
 ```
 
@@ -95,7 +100,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-07T15:59:26+00:00
+# Generated at 2021-09-07T16:45:15+00:00
 -------------------------------------------------------
 ```
 
