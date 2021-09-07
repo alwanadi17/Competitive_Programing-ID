@@ -3,11 +3,11 @@
 # Copyright (C) 2021  Phanatagama <phanatagama@gmail.com>
 #
 
-def smallest_product(arrays: list):
+def smallest_product(arrays: list) -> int:
     strList = map(str, arrays[0])
     formula = '*'.join(strList)
     prod = eval(formula)
     if len(arrays) == 1 or prod < smallest_product(arrays[1:]):
         return prod
-    return smallest_product([1:])
+    return smallest_product(arrays[1:])
     

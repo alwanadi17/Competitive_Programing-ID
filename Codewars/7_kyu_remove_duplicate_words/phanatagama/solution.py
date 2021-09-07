@@ -4,8 +4,8 @@
 #
 
 def remove_duplicate_words(words: str) -> str:
-    words = words.split(' ')
-    words = set(words)
-    words = ' '.join(words)
-    return words
+    result = []
+    for word in words.split(' '):
+      if word not in result: result.append(word)
+    return ' '.join(result)
     
