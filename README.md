@@ -59,7 +59,7 @@ Akiekano (15):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (18):
+alpha (19):
 	6_kyu_Consonant_value (solution.cpp)
 	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
 	6_kyu_bit_counting (solution.cpp)
@@ -76,6 +76,7 @@ alpha (18):
 	8_kyu_alternating_case (solution.cpp)
 	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
 	8_kyu_even_or_odd (solution.cpp)
+	8_kyu_grasshopper_summation (solution.cpp)
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
 	beta_make_upper (solution.cpp)
 
@@ -94,7 +95,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-08T08:05:52+00:00
+# Generated at 2021-09-08T08:17:29+00:00
 -------------------------------------------------------
 ```
 
@@ -104,7 +105,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-08T08:05:52+00:00
+# Generated at 2021-09-08T08:17:29+00:00
 -------------------------------------------------------
 ```
 
