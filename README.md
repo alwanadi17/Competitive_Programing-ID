@@ -42,11 +42,12 @@ ammarfaizi2 (35):
 	8_kyu_returning_strings (solution.asm)
 	8_kyu_sum_of_positive (solution.asm)
 
-Akiekano (16):
+Akiekano (17):
 	5_kyu_calculating with functions (Main.py)
 	6_kyu_multiples_of_3_or_5 (Solutions.go)
 	6_kyu_split_string (solution.go)
 	6_kyu_sums_of_digit (Main.go)
+	6_kyu_vasya_clerk (Solutions.go)
 	7_kyu_bumps_in_the_road (Main.c)
 	7_kyu_factorial (Solutions.go)
 	7_kyu_halving_sum (Main.c)
@@ -97,7 +98,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-10T18:47:39+00:00
+# Generated at 2021-09-10T19:07:19+00:00
 -------------------------------------------------------
 ```
 
@@ -107,7 +108,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-10T18:47:39+00:00
+# Generated at 2021-09-10T19:07:19+00:00
 -------------------------------------------------------
 ```
 
