@@ -5,7 +5,7 @@ Official repository of Competitive Programming ID (https://t.me/CP_ID)
 # Codewars Stats
 ```
 -------------------------------------------------------
-ammarfaizi2 (34):
+ammarfaizi2 (35):
 	2_kyu_pointer_monster (solution.c)
 	2_kyu_pointer_monster (solution.cpp)
 	4_kyu_range_extraction (solution.asm)
@@ -20,6 +20,7 @@ ammarfaizi2 (34):
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_factorial (solution.asm)
 	7_kyu_is_sator_square (solution.c)
+	7_kyu_moves_in_squared_strings_I (solution.c)
 	7_kyu_remove_anchor_from_url (solution.asm)
 	7_kyu_remove_duplicate_words (solution.cpp)
 	7_kyu_reverse_words (solution.cpp)
@@ -41,13 +42,17 @@ ammarfaizi2 (34):
 	8_kyu_returning_strings (solution.asm)
 	8_kyu_sum_of_positive (solution.asm)
 
-Akiekano (13):
+Akiekano (17):
 	5_kyu_calculating with functions (Main.py)
 	6_kyu_multiples_of_3_or_5 (Solutions.go)
 	6_kyu_split_string (solution.go)
 	6_kyu_sums_of_digit (Main.go)
+	6_kyu_vasya_clerk (Solutions.go)
 	7_kyu_bumps_in_the_road (Main.c)
+	7_kyu_factorial (Solutions.go)
 	7_kyu_halving_sum (Main.c)
+	7_kyu_highest_and_lowest (Solutions.go)
+	7_kyu_moves_in_squared_strings_I (Solutions.go)
 	7_kyu_reverse_words (Main.c)
 	7_kyu_smallest_product (Solutions.py)
 	7_kyu_sort_numbers (Main.c)
@@ -56,21 +61,44 @@ Akiekano (13):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (9):
+alpha (20):
+	5_kyu_rot13 (solution.cpp)
+	6_kyu_Consonant_value (solution.cpp)
+	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
 	6_kyu_bit_counting (solution.cpp)
+	6_kyu_create_phone_number (solution.cpp)
+	6_kyu_multiples_of_3_or_5 (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
+	7_kyu_disemvowel_trolls (solution.cpp)
 	7_kyu_get_the_middle_char (solution.cpp)
+	7_kyu_halving_sum (solution.cpp)
+	7_kyu_moves_in_squared_strings_I (solution.cpp)
 	7_kyu_reverse_words (solution.cpp)
 	7_kyu_sort_numbers (solution.cpp)
+	8_kyu_Floating_point_comparison (solution.cpp)
 	8_kyu_alternating_case (solution.cpp)
 	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
+	8_kyu_even_or_odd (solution.cpp)
+	8_kyu_grasshopper_summation (solution.cpp)
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
 	beta_make_upper (solution.cpp)
+
+uClaster (4):
+	6_kyu_split_string (solution.py)
+	8_kyu_filling_an_array_part_1 (solution.py)
+	8_kyu_sum_of_positive (solution.c)
+	8_kyu_sum_of_positive (solution.py)
+
+phanatagama (4):
+	7_kyu_remove_duplicate_words (solution.py)
+	7_kyu_reverse_words (solution.py)
+	7_kyu_smallest_product (solution.py)
+	7_kyu_sort_numbers (solution.py)
 
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-02T16:16:33+00:00
+# Generated at 2021-09-10T19:07:19+00:00
 -------------------------------------------------------
 ```
 
@@ -80,7 +108,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-02T16:16:33+00:00
+# Generated at 2021-09-10T19:07:19+00:00
 -------------------------------------------------------
 ```
 
