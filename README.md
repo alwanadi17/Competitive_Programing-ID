@@ -66,10 +66,11 @@ Akiekano (17):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (24):
+alpha (25):
 	5_kyu_rot13 (solution.cpp)
 	6_kyu_Consonant_value (solution.cpp)
 	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
+	6_kyu_are_they_the_"same"? (solution.cpp)
 	6_kyu_bit_counting (solution.cpp)
 	6_kyu_create_phone_number (solution.cpp)
 	6_kyu_multiples_of_3_or_5 (solution.cpp)
@@ -107,7 +108,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-14T15:23:29+00:00
+# Generated at 2021-09-14T15:35:56+00:00
 -------------------------------------------------------
 ```
 
@@ -117,7 +118,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-14T15:23:29+00:00
+# Generated at 2021-09-14T15:35:56+00:00
 -------------------------------------------------------
 ```
 
