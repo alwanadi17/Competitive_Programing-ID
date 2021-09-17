@@ -5,7 +5,7 @@ Official repository of Competitive Programming ID (https://t.me/CP_ID)
 # Codewars Stats
 ```
 -------------------------------------------------------
-ammarfaizi2 (42):
+ammarfaizi2 (45):
 	2_kyu_pointer_monster (solution.c)
 	2_kyu_pointer_monster (solution.cpp)
 	4_kyu_range_extraction (solution.asm)
@@ -16,15 +16,18 @@ ammarfaizi2 (42):
 	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
 	6_kyu_are_they_the_same (solution.cpp)
 	6_kyu_are_we_alternate (solution.php)
+	6_kyu_bit_counting (solution.asm)
 	6_kyu_cheat_or_you_shall_not_pass_easy (solution.asm)
 	6_kyu_data_reverse (solution.asm)
 	6_kyu_linked_lists_length_n_count (solution.asm)
 	6_kyu_multiples_of_3_or_5 (solution.c)
 	6_kyu_vasya_clerk (solution.cpp)
+	7_kyu_beginner_series_3_sum_of_numbers (solution.asm)
 	7_kyu_beginner_series_3_sum_of_numbers (solution.c)
 	7_kyu_borrower_speak (solution.asm)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_factorial (solution.asm)
+	7_kyu_find_the_stray_number (solution.asm)
 	7_kyu_is_sator_square (solution.c)
 	7_kyu_moves_in_squared_strings_I (solution.c)
 	7_kyu_remove_anchor_from_url (solution.asm)
@@ -112,7 +115,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-16T15:39:43+00:00
+# Generated at 2021-09-17T15:18:45+00:00
 -------------------------------------------------------
 ```
 
@@ -122,7 +125,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-16T15:39:43+00:00
+# Generated at 2021-09-17T15:18:45+00:00
 -------------------------------------------------------
 ```
 
