@@ -5,20 +5,29 @@ Official repository of Competitive Programming ID (https://t.me/CP_ID)
 # Codewars Stats
 ```
 -------------------------------------------------------
-ammarfaizi2 (35):
+ammarfaizi2 (45):
 	2_kyu_pointer_monster (solution.c)
 	2_kyu_pointer_monster (solution.cpp)
 	4_kyu_range_extraction (solution.asm)
+	4_kyu_variable_num_of_args_in_C_without_va (solution.c)
 	5_kyu_can_you_get_the_loop (solution.c)
 	5_kyu_extract_field_from_a_double_value (solution.c)
 	5_kyu_report_total_allocated_memory_II (solution.c)
+	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
+	6_kyu_are_they_the_same (solution.cpp)
+	6_kyu_are_we_alternate (solution.php)
+	6_kyu_bit_counting (solution.asm)
+	6_kyu_cheat_or_you_shall_not_pass_easy (solution.asm)
 	6_kyu_data_reverse (solution.asm)
+	6_kyu_linked_lists_length_n_count (solution.asm)
 	6_kyu_multiples_of_3_or_5 (solution.c)
 	6_kyu_vasya_clerk (solution.cpp)
+	7_kyu_beginner_series_3_sum_of_numbers (solution.asm)
 	7_kyu_beginner_series_3_sum_of_numbers (solution.c)
 	7_kyu_borrower_speak (solution.asm)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_factorial (solution.asm)
+	7_kyu_find_the_stray_number (solution.asm)
 	7_kyu_is_sator_square (solution.c)
 	7_kyu_moves_in_squared_strings_I (solution.c)
 	7_kyu_remove_anchor_from_url (solution.asm)
@@ -39,6 +48,7 @@ ammarfaizi2 (35):
 	8_kyu_hex_to_decimal (solution.c)
 	8_kyu_is_he_gonna_survive (solution.asm)
 	8_kyu_keep_hydrated (solution.asm)
+	8_kyu_playing_with_cubes_I (Cube.java)
 	8_kyu_returning_strings (solution.asm)
 	8_kyu_sum_of_positive (solution.asm)
 
@@ -61,13 +71,19 @@ Akiekano (17):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (20):
+alpha (27):
 	5_kyu_rot13 (solution.cpp)
 	6_kyu_Consonant_value (solution.cpp)
 	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
+	6_kyu_are_they_the_same (solution.cpp)
 	6_kyu_bit_counting (solution.cpp)
+	6_kyu_cheat_or_you_shall_not_pass_easy (solution.c)
 	6_kyu_create_phone_number (solution.cpp)
+	6_kyu_moves_in_squared_strings_II (solution.cpp)
 	6_kyu_multiples_of_3_or_5 (solution.cpp)
+	6_kyu_split_string (solution.cpp)
+	6_kyu_sums_of_digit (solution.cpp)
+	6_kyu_vasya_clerk (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_disemvowel_trolls (solution.cpp)
 	7_kyu_get_the_middle_char (solution.cpp)
@@ -75,6 +91,7 @@ alpha (20):
 	7_kyu_moves_in_squared_strings_I (solution.cpp)
 	7_kyu_reverse_words (solution.cpp)
 	7_kyu_sort_numbers (solution.cpp)
+	7_kyu_vowel_count (solution.cpp)
 	8_kyu_Floating_point_comparison (solution.cpp)
 	8_kyu_alternating_case (solution.cpp)
 	8_kyu_count_of_positives_sum_of_negatives (solution.cpp)
@@ -98,7 +115,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-10T19:07:19+00:00
+# Generated at 2021-09-17T15:18:45+00:00
 -------------------------------------------------------
 ```
 
@@ -108,7 +125,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-10T19:07:19+00:00
+# Generated at 2021-09-17T15:18:45+00:00
 -------------------------------------------------------
 ```
 
