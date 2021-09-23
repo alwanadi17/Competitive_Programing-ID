@@ -74,7 +74,7 @@ Akiekano (17):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (27):
+alpha (28):
 	5_kyu_rot13 (solution.cpp)
 	6_kyu_Consonant_value (solution.cpp)
 	6_kyu_IEEE_754_floating_point_numbers (solution.cpp)
@@ -86,6 +86,7 @@ alpha (27):
 	6_kyu_multiples_of_3_or_5 (solution.cpp)
 	6_kyu_split_string (solution.cpp)
 	6_kyu_sums_of_digit (solution.cpp)
+	6_kyu_swap_case_using_n (solution.cpp)
 	6_kyu_vasya_clerk (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_disemvowel_trolls (solution.cpp)
@@ -118,7 +119,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-09-21T14:28:18+00:00
+# Generated at 2021-09-23T17:11:34+00:00
 -------------------------------------------------------
 ```
 
@@ -128,7 +129,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-09-21T14:28:18+00:00
+# Generated at 2021-09-23T17:11:34+00:00
 -------------------------------------------------------
 ```
 
