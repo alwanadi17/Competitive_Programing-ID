@@ -75,7 +75,7 @@ Akiekano (17):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (35):
+alpha (36):
 	5_kyu_rgb_to_hex (solution.cpp)
 	5_kyu_rot13 (solution.cpp)
 	6_kyu_Consonant_value (solution.cpp)
@@ -95,6 +95,7 @@ alpha (35):
 	6_kyu_swap_case_using_n (solution.cpp)
 	6_kyu_the_vowel_code (solution.cpp)
 	6_kyu_vasya_clerk (solution.cpp)
+	6_kyu_who_likes_it (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_disemvowel_trolls (solution.cpp)
 	7_kyu_get_the_middle_char (solution.cpp)
@@ -127,7 +128,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-10-05T07:20:57+00:00
+# Generated at 2021-10-05T07:31:55+00:00
 -------------------------------------------------------
 ```
 
@@ -137,7 +138,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-05T07:20:57+00:00
+# Generated at 2021-10-05T07:31:55+00:00
 -------------------------------------------------------
 ```
 
