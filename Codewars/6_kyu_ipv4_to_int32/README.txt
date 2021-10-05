@@ -11,7 +11,7 @@ Because the above IP address has 32 bits, we can represent it as the 32 bit numb
 
 Write a function ip_to_int32(ip) ( JS: ipToInt32(ip) ) that takes an IPv4 address and returns a 32 bit number.
 
-  ip_to_int32("128.32.10.1") => 2149583361
+ip_to_int32("128.32.10.1") => 2149583361
 
 
 Link: https://www.codewars.com/kata/52ea928a1ef5cfec800003ee
