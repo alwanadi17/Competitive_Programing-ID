@@ -120,11 +120,19 @@ uClaster (4):
 	8_kyu_sum_of_positive (solution.c)
 	8_kyu_sum_of_positive (solution.py)
 
-anandadwipra (4):
+anandadwipra (12):
 	6_kyu_sums_of_digit (Solution.py)
 	7_kyu_Credit_Card_Mask (Solution.py)
 	7_kyu_Isograms (Solution.py)
 	8_kyu_Multiply (Multiply.py)
+	8_kyu_calculate_bmi (Solution.py)
+	8_kyu_even_or_odd (Solution.py)
+	8_kyu_get_the_mean_of_an_array (Solution.py)
+	8_kyu_grasshopper_summation (Solution.py)
+	8_kyu_hex_to_decimal (Solution.py)
+	8_kyu_is_he_gonna_survive (solution.py)
+	8_kyu_keep_hydrated (solution.py)
+	8_kyu_returning_strings (solution.py)
 
 phanatagama (4):
 	7_kyu_remove_duplicate_words (solution.py)
@@ -135,7 +143,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-10-19T01:14:43+00:00
+# Generated at 2021-10-20T08:19:55+00:00
 -------------------------------------------------------
 ```
 
@@ -145,7 +153,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-19T01:14:43+00:00
+# Generated at 2021-10-20T08:19:55+00:00
 -------------------------------------------------------
 ```
 
