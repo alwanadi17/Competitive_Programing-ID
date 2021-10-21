@@ -114,25 +114,37 @@ alpha (37):
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
 	beta_make_upper (solution.cpp)
 
-uClaster (4):
-	6_kyu_split_string (solution.py)
-	8_kyu_filling_an_array_part_1 (solution.py)
-	8_kyu_sum_of_positive (solution.c)
-	8_kyu_sum_of_positive (solution.py)
-
-anandadwipra (12):
+anandadwipra (24):
+	6_kyu_Multicast_IP_Address_to_MAC_address_mapping (Solution.py)
+	6_kyu_Zero_plentiful_Array (Solution.py)
 	6_kyu_sums_of_digit (Solution.py)
 	7_kyu_Credit_Card_Mask (Solution.py)
+	7_kyu_Double_Char (Solution.py)
 	7_kyu_Isograms (Solution.py)
+	7_kyu_return_missing_element (Solution.py)
+	7_kyu_sort_numbers (Solution.py)
+	7_kyu_two_to_one (Solution.py)
+	8_kyu_Convert_a_String_to_a_number (Solution.py)
 	8_kyu_Multiply (Multiply.py)
+	8_kyu_Multiply (Solution.sh)
+	8_kyu_calculate_average (Solution.py)
 	8_kyu_calculate_bmi (Solution.py)
+	8_kyu_convert_number_to_reversed_array (Solution.py)
 	8_kyu_even_or_odd (Solution.py)
 	8_kyu_get_the_mean_of_an_array (Solution.py)
 	8_kyu_grasshopper_summation (Solution.py)
 	8_kyu_hex_to_decimal (Solution.py)
 	8_kyu_is_he_gonna_survive (solution.py)
 	8_kyu_keep_hydrated (solution.py)
+	8_kyu_keep_hydrated (solution.sh)
+	8_kyu_returning_strings (Solution.sh)
 	8_kyu_returning_strings (solution.py)
+
+uClaster (4):
+	6_kyu_split_string (solution.py)
+	8_kyu_filling_an_array_part_1 (solution.py)
+	8_kyu_sum_of_positive (solution.c)
+	8_kyu_sum_of_positive (solution.py)
 
 phanatagama (4):
 	7_kyu_remove_duplicate_words (solution.py)
@@ -143,7 +155,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-10-20T08:19:55+00:00
+# Generated at 2021-10-21T13:56:04+00:00
 -------------------------------------------------------
 ```
 
@@ -153,7 +165,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-20T08:19:55+00:00
+# Generated at 2021-10-21T13:56:04+00:00
 -------------------------------------------------------
 ```
 
