@@ -75,7 +75,7 @@ Akiekano (17):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (37):
+alpha (39):
 	5_kyu_rgb_to_hex (solution.cpp)
 	5_kyu_rot13 (solution.cpp)
 	6_kyu_Consonant_value (solution.cpp)
@@ -90,6 +90,7 @@ alpha (37):
 	6_kyu_multiples_of_3_or_5 (solution.cpp)
 	6_kyu_number_format (solution.cpp)
 	6_kyu_position_average (solution.cpp)
+	6_kyu_replace_with_alphabet_position (solution.c)
 	6_kyu_simple_encryption_alternating_split (solution.cpp)
 	6_kyu_split_string (solution.cpp)
 	6_kyu_sums_of_digit (solution.cpp)
@@ -112,6 +113,7 @@ alpha (37):
 	8_kyu_even_or_odd (solution.cpp)
 	8_kyu_grasshopper_summation (solution.cpp)
 	8_kyu_hex_to_decimal (hexToDecimal.cpp)
+	8_kyu_square_n_sum (solution.c)
 	beta_make_upper (solution.cpp)
 
 anandadwipra (24):
@@ -158,7 +160,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-10-23T05:40:21+00:00
+# Generated at 2021-10-23T12:01:20+00:00
 -------------------------------------------------------
 ```
 
@@ -168,7 +170,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-23T05:40:21+00:00
+# Generated at 2021-10-23T12:01:20+00:00
 -------------------------------------------------------
 ```
 
