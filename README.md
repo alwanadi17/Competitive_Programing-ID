@@ -160,11 +160,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-<<<<<<< HEAD
-# Generated at 2021-10-23T05:40:21+00:00
-=======
-# Generated at 2021-10-22T11:34:56+00:00
->>>>>>> 96bae65 (README.md: update stats)
+# Generated at 2021-10-23T12:01:20+00:00
 -------------------------------------------------------
 ```
 
@@ -174,7 +170,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-23T05:40:21+00:00
+# Generated at 2021-10-23T12:01:20+00:00
 -------------------------------------------------------
 ```
 
