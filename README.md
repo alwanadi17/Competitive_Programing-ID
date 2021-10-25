@@ -142,8 +142,9 @@ anandadwipra (24):
 	8_kyu_returning_strings (Solution.sh)
 	8_kyu_returning_strings (solution.py)
 
-0x256e4 (2):
+0x256e4 (3):
 	6_kyu_Tribonacci_Sequence (solution.cpp)
+	6_kyu_Two_Sum (solution.cpp)
 	6_kyu_who_likes_it (solution.cpp)
 
 uClaster (4):
@@ -161,7 +162,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-10-25T10:29:16+00:00
+# Generated at 2021-10-25T13:24:45+00:00
 -------------------------------------------------------
 ```
 
@@ -171,7 +172,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-25T10:29:16+00:00
+# Generated at 2021-10-25T13:24:45+00:00
 -------------------------------------------------------
 ```
 
