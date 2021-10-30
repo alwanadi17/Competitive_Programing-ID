@@ -56,6 +56,36 @@ ammarfaizi2 (49):
 	8_kyu_returning_strings (solution.asm)
 	8_kyu_sum_of_positive (solution.asm)
 
+anandadwipra (28):
+	4_kyu_range_extraction (Solution.py)
+	6_kyu_Multicast_IP_Address_to_MAC_address_mapping (Solution.py)
+	6_kyu_Zero_plentiful_Array (Solution.py)
+	6_kyu_sums_of_digit (Solution.py)
+	7_kyu_Credit_Card_Mask (Solution.py)
+	7_kyu_Double_Char (Solution.py)
+	7_kyu_Isograms (Solution.py)
+	7_kyu_highest_and_lowest (Solution.py)
+	7_kyu_return_missing_element (Solution.py)
+	7_kyu_sort_numbers (Solution.py)
+	7_kyu_testing_1-2-3 (Solution.py)
+	7_kyu_two_to_one (Solution.py)
+	8_kyu_Convert_a_String_to_a_number (Solution.py)
+	8_kyu_Multiply (Multiply.py)
+	8_kyu_Multiply (Solution.sh)
+	8_kyu_USD_=>_CNY (Solution.py)
+	8_kyu_calculate_average (Solution.py)
+	8_kyu_calculate_bmi (Solution.py)
+	8_kyu_convert_number_to_reversed_array (Solution.py)
+	8_kyu_even_or_odd (Solution.py)
+	8_kyu_get_the_mean_of_an_array (Solution.py)
+	8_kyu_grasshopper_summation (Solution.py)
+	8_kyu_hex_to_decimal (Solution.py)
+	8_kyu_is_he_gonna_survive (solution.py)
+	8_kyu_keep_hydrated (solution.py)
+	8_kyu_keep_hydrated (solution.sh)
+	8_kyu_returning_strings (Solution.sh)
+	8_kyu_returning_strings (solution.py)
+
 Akiekano (17):
 	5_kyu_calculating with functions (Main.py)
 	6_kyu_multiples_of_3_or_5 (Solutions.go)
@@ -119,32 +149,6 @@ alpha (42):
 	8_kyu_square_n_sum (solution.c)
 	beta_make_upper (solution.cpp)
 
-anandadwipra (24):
-	6_kyu_Multicast_IP_Address_to_MAC_address_mapping (Solution.py)
-	6_kyu_Zero_plentiful_Array (Solution.py)
-	6_kyu_sums_of_digit (Solution.py)
-	7_kyu_Credit_Card_Mask (Solution.py)
-	7_kyu_Double_Char (Solution.py)
-	7_kyu_Isograms (Solution.py)
-	7_kyu_return_missing_element (Solution.py)
-	7_kyu_sort_numbers (Solution.py)
-	7_kyu_two_to_one (Solution.py)
-	8_kyu_Convert_a_String_to_a_number (Solution.py)
-	8_kyu_Multiply (Multiply.py)
-	8_kyu_Multiply (Solution.sh)
-	8_kyu_calculate_average (Solution.py)
-	8_kyu_calculate_bmi (Solution.py)
-	8_kyu_convert_number_to_reversed_array (Solution.py)
-	8_kyu_even_or_odd (Solution.py)
-	8_kyu_get_the_mean_of_an_array (Solution.py)
-	8_kyu_grasshopper_summation (Solution.py)
-	8_kyu_hex_to_decimal (Solution.py)
-	8_kyu_is_he_gonna_survive (solution.py)
-	8_kyu_keep_hydrated (solution.py)
-	8_kyu_keep_hydrated (solution.sh)
-	8_kyu_returning_strings (Solution.sh)
-	8_kyu_returning_strings (solution.py)
-
 0x256e4 (4):
 	6_kyu_Tribonacci_Sequence (solution.cpp)
 	6_kyu_Two_Sum (solution.cpp)
@@ -166,7 +170,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-10-26T09:39:12+00:00
+# Generated at 2021-10-30T23:42:55+00:00
 -------------------------------------------------------
 ```
 
@@ -176,7 +180,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-10-26T09:39:12+00:00
+# Generated at 2021-10-30T23:42:55+00:00
 -------------------------------------------------------
 ```
 
