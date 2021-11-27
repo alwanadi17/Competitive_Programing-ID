@@ -109,7 +109,8 @@ Akiekano (17):
 	8_kyu_count_of_positives_sum_of_negatives (Solution.py)
 	8_kyu_hex_to_decimal (solution.c)
 
-alpha (43):
+alpha (50):
+	5_kyu_maximum_subarray_sum (solution.c)
 	5_kyu_rgb_to_hex (solution.cpp)
 	5_kyu_rot13 (solution.cpp)
 	6_kyu_Consonant_value (solution.cpp)
@@ -122,6 +123,8 @@ alpha (43):
 	6_kyu_ipv4_to_int32 (solution.cpp)
 	6_kyu_moves_in_squared_strings_II (solution.cpp)
 	6_kyu_multiples_of_3_or_5 (solution.cpp)
+	6_kyu_multiplication_table (solution.c)
+	6_kyu_multiplication_table (solution.cpp)
 	6_kyu_number_format (solution.cpp)
 	6_kyu_position_average (solution.cpp)
 	6_kyu_replace_with_alphabet_position (solution.c)
@@ -130,6 +133,7 @@ alpha (43):
 	6_kyu_sums_of_digit (solution.cpp)
 	6_kyu_swap_case_using_n (solution.cpp)
 	6_kyu_tank_truck (solution.cpp)
+	6_kyu_the_supermarket_queue (solution.c)
 	6_kyu_the_vowel_code (solution.cpp)
 	6_kyu_vasya_clerk (solution.cpp)
 	6_kyu_who_likes_it (solution.cpp)
@@ -141,9 +145,12 @@ alpha (43):
 	7_kyu_get_the_middle_char (solution.cpp)
 	7_kyu_halving_sum (solution.cpp)
 	7_kyu_maximum_length_difference (solution.cpp)
+	7_kyu_maximum_product (solution.c)
 	7_kyu_moves_in_squared_strings_I (solution.cpp)
+	7_kyu_number_of_decimal_digits (solution.c)
 	7_kyu_reverse_words (solution.cpp)
 	7_kyu_sort_numbers (solution.cpp)
+	7_kyu_sum_of_odd_number (solution.c)
 	7_kyu_vowel_count (solution.cpp)
 	8_kyu_Floating_point_comparison (solution.cpp)
 	8_kyu_alternating_case (solution.cpp)
@@ -175,7 +182,7 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-11-05T13:17:59+00:00
+# Generated at 2021-11-27T15:55:42+00:00
 -------------------------------------------------------
 ```
 
@@ -185,7 +192,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-11-05T13:17:59+00:00
+# Generated at 2021-11-27T15:55:42+00:00
 -------------------------------------------------------
 ```
 
