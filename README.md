@@ -196,7 +196,10 @@ phanatagama (4):
 mfaridw (1):
 	8_kyu_hex_to_decimal (solution.cpp)
 
-# Generated at 2021-12-19T16:27:27+00:00
+alviroiskandar (1):
+	8_kyu_returning_strings (solution.cpp)
+
+# Generated at 2022-02-21T02:19:50+07:00
 -------------------------------------------------------
 ```
 
@@ -206,7 +209,7 @@ mfaridw (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2021-12-19T16:27:27+00:00
+# Generated at 2022-02-21T02:19:50+07:00
 -------------------------------------------------------
 ```
 
