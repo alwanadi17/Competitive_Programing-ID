@@ -56,10 +56,11 @@ ammarfaizi2 (49):
 	8_kyu_returning_strings (solution.asm)
 	8_kyu_sum_of_positive (solution.asm)
 
-alpha (64):
+alpha (72):
 	4_kyu_adding_big_numbers (solution.c)
 	4_kyu_adding_big_numbers (solution.cpp)
 	4_kyu_human_readable_duration_format (solution.cpp)
+	5_kyu_int32_to_ipv4 (solution.cpp)
 	5_kyu_maximum_subarray_sum (solution.c)
 	5_kyu_rgb_to_hex (solution.cpp)
 	5_kyu_rot13 (solution.cpp)
@@ -73,6 +74,7 @@ alpha (64):
 	6_kyu_cheat_or_you_shall_not_pass_easy (solution.c)
 	6_kyu_create_phone_number (solution.cpp)
 	6_kyu_detect_pangram (solution.c)
+	6_kyu_fun_with_trees_max_sum (solution.cpp)
 	6_kyu_ipv4_to_int32 (solution.cpp)
 	6_kyu_linked_lists_length_n_count (solution.cpp)
 	6_kyu_mexican_wave (solution.cpp)
@@ -82,20 +84,25 @@ alpha (64):
 	6_kyu_multiplication_table (solution.cpp)
 	6_kyu_number_format (solution.cpp)
 	6_kyu_position_average (solution.cpp)
+	6_kyu_possibilities_of_throwing_a_coin_n_times (solution.cpp)
 	6_kyu_replace_with_alphabet_position (solution.c)
 	6_kyu_simple_encryption_alternating_split (solution.cpp)
 	6_kyu_singly_linked_list_swap_nodes (solution.c)
 	6_kyu_sort_the_odd (solution.cpp)
 	6_kyu_split_string (solution.cpp)
+	6_kyu_sum_the_tree (solution.c)
+	6_kyu_sum_the_tree (solution.cpp)
 	6_kyu_sums_of_digit (solution.cpp)
 	6_kyu_swap_case_using_n (solution.cpp)
 	6_kyu_tank_truck (solution.cpp)
 	6_kyu_the_supermarket_queue (solution.c)
 	6_kyu_the_vowel_code (solution.cpp)
+	6_kyu_train_your_skills_in_creation_of_classes (solution.cpp)
 	6_kyu_vasya_clerk (solution.cpp)
 	6_kyu_who_likes_it (solution.cpp)
 	7_kyu_bumps_in_the_road (solution.cpp)
 	7_kyu_complementary_dna (solution.c)
+	7_kyu_computer_science_101_queues (solution.c)
 	7_kyu_computer_science_101_stack (solution.c)
 	7_kyu_convert_a_linked_list_to_a_string (solution.c)
 	7_kyu_convert_a_linked_list_to_a_string (solution.cpp)
@@ -108,6 +115,7 @@ alpha (64):
 	7_kyu_maximum_product (solution.c)
 	7_kyu_moves_in_squared_strings_I (solution.cpp)
 	7_kyu_number_of_decimal_digits (solution.c)
+	7_kyu_report_total_allocated_memory (solution.c)
 	7_kyu_reverse_words (solution.cpp)
 	7_kyu_sort_numbers (solution.cpp)
 	7_kyu_sum_of_odd_number (solution.c)
@@ -199,7 +207,7 @@ mfaridw (1):
 alviroiskandar (1):
 	8_kyu_returning_strings (solution.cpp)
 
-# Generated at 2022-02-21T02:19:50+07:00
+# Generated at 2022-03-02T09:31:25+00:00
 -------------------------------------------------------
 ```
 
@@ -209,7 +217,7 @@ alviroiskandar (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2022-02-21T02:19:50+07:00
+# Generated at 2022-03-02T09:31:25+00:00
 -------------------------------------------------------
 ```
 
