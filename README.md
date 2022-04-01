@@ -130,6 +130,11 @@ alpha (72):
 	8_kyu_square_n_sum (solution.c)
 	beta_make_upper (solution.cpp)
 
+alwanadi17 (3):
+	4_kyu_large_factorial (solution.cpp)
+	4_kyu_multiplying_number_as_string (solution.cpp)
+	4_kyu_range_extraction (solution.cpp)
+
 anandadwipra (32):
 	4_kyu_range_extraction (Solution.py)
 	6_kyu_Multicast_IP_Address_to_MAC_address_mapping (Solution.py)
@@ -207,7 +212,7 @@ mfaridw (1):
 alviroiskandar (1):
 	8_kyu_returning_strings (solution.cpp)
 
-# Generated at 2022-03-02T09:31:25+00:00
+# Generated at 2022-04-01T16:28:01+00:00
 -------------------------------------------------------
 ```
 
@@ -217,7 +222,7 @@ alviroiskandar (1):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2022-03-02T09:31:25+00:00
+# Generated at 2022-04-01T16:28:01+00:00
 -------------------------------------------------------
 ```
 
