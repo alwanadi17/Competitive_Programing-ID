@@ -212,17 +212,44 @@ mfaridw (1):
 alviroiskandar (1):
 	8_kyu_returning_strings (solution.cpp)
 
-# Generated at 2022-04-01T16:28:01+00:00
+# Generated at 2023-01-17T07:02:01+00:00
 -------------------------------------------------------
 ```
 
 # Toki Stats
 ```
 -------------------------------------------------------
+alwanadi17 (25):
+	courses_basics/chapter_1/A (solution.cpp)
+	courses_basics/chapter_1/A (solution2.cpp)
+	courses_basics/chapter_3/B (solution.cpp)
+	courses_basics/chapter_3/C (solution.cpp)
+	courses_basics/chapter_3/D (solution.cpp)
+	courses_basics/chapter_3/E (solution.cpp)
+	courses_basics/chapter_3/F (solution.cpp)
+	courses_basics/chapter_5/B (solution.cpp)
+	courses_basics/chapter_5/C (solution.cpp)
+	courses_basics/chapter_5/D (solution.cpp)
+	courses_basics/chapter_5/E (solution.cpp)
+	courses_basics/chapter_5/F (solution.cpp)
+	courses_basics/chapter_5/G (solution.cpp)
+	courses_basics/chapter_6/B (solution.cpp)
+	courses_basics/chapter_6/C (solution.cpp)
+	courses_basics/chapter_6/D (solution.cpp)
+	courses_basics/chapter_6/E (solution.cpp)
+	courses_basics/chapter_6/F (solution.cpp)
+	courses_basics/chapter_6/G (solution.cpp)
+	courses_basics/chapter_6/H (solution.cpp)
+	courses_basics/chapter_7/A (solution.cpp)
+	courses_basics/chapter_7/B (solution.cpp)
+	courses_basics/chapter_7/C (solution.cpp)
+	courses_basics/chapter_8/B (solution.cpp)
+	courses_basics/chapter_8/C (solution.cpp)
+
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2022-04-01T16:28:01+00:00
+# Generated at 2023-01-17T07:02:02+00:00
 -------------------------------------------------------
 ```
 
