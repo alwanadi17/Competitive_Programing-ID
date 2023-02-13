@@ -135,7 +135,7 @@ alwanadi17 (3):
 	4_kyu_multiplying_number_as_string (solution.cpp)
 	4_kyu_range_extraction (solution.cpp)
 
-anandadwipra (31):
+anandadwipra (32):
 	4_kyu_range_extraction (Solution.py)
 	6_kyu_Multicast_IP_Address_to_MAC_address_mapping (Solution.py)
 	6_kyu_Zero_plentiful_Array (Solution.py)
@@ -153,6 +153,7 @@ anandadwipra (31):
 	8_kyu_Multiply (Multiply.py)
 	8_kyu_Multiply (Solution.sh)
 	8_kyu_Opposites_Attract (Solution.py)
+	8_kyu_USD_to_CNY (Solution.py)
 	8_kyu_array_plus_array (Solution.py)
 	8_kyu_calculate_average (Solution.py)
 	8_kyu_calculate_bmi (Solution.py)
@@ -211,7 +212,7 @@ mfaridw (1):
 alviroiskandar (1):
 	8_kyu_returning_strings (solution.cpp)
 
-# Generated at 2023-02-13T08:34:48+00:00
+# Generated at 2023-02-13T08:37:02+00:00
 -------------------------------------------------------
 ```
 
@@ -248,7 +249,7 @@ alwanadi17 (25):
 ammarfaizi2 (1):
 	courses_basics/chapter_10/C (solution.c)
 
-# Generated at 2023-02-13T08:34:48+00:00
+# Generated at 2023-02-13T08:37:02+00:00
 -------------------------------------------------------
 ```
 
